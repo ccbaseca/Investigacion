@@ -1,0 +1,2 @@
+Basurto, N., Cambra, C., & Herrero, Á. (2022). A visual tool for monitoring and detecting anomalies in robot performance. Pattern Analysis and Applications, 25(2), 271-283.
+ https://doi.org/10.1007/S10044-021-01053-0
