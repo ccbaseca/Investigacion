@@ -1,0 +1,2 @@
+Basurto, N., Cambra, C., & Herrero, Á. (2021). Improving the detection of robot anomalies by handling data irregularities. Neurocomputing, 459, 419-431. 
+https://doi.org/10.1016/J.NEUCOM.2020.05.101
